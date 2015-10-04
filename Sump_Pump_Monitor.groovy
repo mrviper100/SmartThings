@@ -2,7 +2,7 @@
  *  Sump Pump Monitor
  *
  *  Copyright 2015 Pat Heideman
- *  Thanks to bmmiller's smartapp.laundrymonitor.  I changed code to alert when wattage is above a set point for X amount of time.
+ *  Thanks to bmmiller's smartapp.laundrymonitor.  I changed code to alert when wattage is "above" a set point for X amount of time.
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
  *
